@@ -1,27 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Multi-variable regression
-"""
-
-#set 
-w = set('mexicanelephant')
-
-# list
-x = [1, 2]
-
-# dictionary
-y = {'dude': 2, 'mexican': 8}
-
-# tuple
-z = (2, 3)
-
-
-
-
-"""
-Dataset
-"""
-
 import numpy as np
 import time
 import matplotlib
