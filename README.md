@@ -1,5 +1,8 @@
 # machine-learning
 
+### Courses
+- https://github.com/lyhue1991/eat_tensorflow2_in_30_days
+
 ### Blogs
 - https://www.jeremyjordan.me/
 - https://blog.otoro.net/
@@ -12,3 +15,6 @@
 - https://github.com/Honlan/TF2GAN
 - https://github.com/1044197988/Awesome-Tensorflow2
 - https://github.com/yusugomori/deeplearning-tf2
+- https://github.com/timsainb/tensorflow2-generative-models
+
+https://github.com/minimaxir/gpt-2-simple
