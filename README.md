@@ -7,3 +7,6 @@
 
 ### Examples
 - https://keras.io/examples/
+
+### TensorFlow2
+- https://github.com/Amin-Tgz/awesome-tensorflow-2
