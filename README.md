@@ -5,8 +5,7 @@
 - https://blog.otoro.net/
 - https://magenta.tensorflow.org/blog
 
-### Examples
+### TensorFlow 2
 - https://keras.io/examples/
-
-### TensorFlow2
 - https://github.com/Amin-Tgz/awesome-tensorflow-2
+- https://github.com/Honlan/TF2GAN
