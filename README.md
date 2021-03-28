@@ -1,4 +1,6 @@
 # My TensorFlow 2 Collection
+This repository is a collection of TensorFlow 2.X material. 
+
 
 ### Courses and Books
 - https://github.com/lyhue1991/eat_tensorflow2_in_30_days
