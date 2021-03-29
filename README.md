@@ -1,9 +1,11 @@
-# My TensorFlow 2 Collection
+# TensorFlow 2 Conglomerate
 This repository is a collection of TensorFlow 2.X material. 
 
-### Model Collections
+### Conglomerates
 - https://github.com/Amin-Tgz/awesome-tensorflow-2
 - https://github.com/1044197988/Awesome-Tensorflow2
+
+### Model collections
 - https://github.com/yusugomori/deeplearning-tf2
 - https://github.com/Honlan/TF2GAN
 - https://github.com/timsainb/tensorflow2-generative-models
@@ -20,12 +22,12 @@ This repository is a collection of TensorFlow 2.X material.
 - https://github.com/dragen1860/TensorFlow-2.x-Tutorials
 - https://github.com/taki0112/Tensorflow2-Cookbook
 
-### Blogs
+### Fun Blogs
 - https://www.jeremyjordan.me/
 - https://blog.otoro.net/
 - https://magenta.tensorflow.org/blog
 
-### Other repos to look into
+##### Other repos to look into
 - https://github.com/TensorSpeech/TensorFlowTTS
 - https://github.com/akanyaani/gpt-2-tensorflow2.0
 - https://github.com/minimaxir/gpt-2-simple (TF 1.15 should be convertible)
