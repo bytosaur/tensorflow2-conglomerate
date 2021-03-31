@@ -27,8 +27,14 @@ This repository is a collection of TensorFlow 2.X material.
 - https://blog.otoro.net/
 - https://magenta.tensorflow.org/blog
 
-##### Other repos to look into
+### Other repos to look into
 - https://github.com/TensorSpeech/TensorFlowTTS
 - https://github.com/akanyaani/gpt-2-tensorflow2.0
 - https://github.com/minimaxir/gpt-2-simple (TF 1.15 should be convertible)
 - https://github.com/zhedongzheng/tensorflow-nlp
+
+##### OpenPose
+- https://github.com/michalfaber/tensorflow_Realtime_Multi-Person_Pose_Estimation
+- https://github.com/tensorlayer/hyperpose
+- https://github.com/MikeOfZen/Yet-Another-Openpose-Implementation
+
