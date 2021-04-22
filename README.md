@@ -29,6 +29,7 @@ This repository is a collection of TensorFlow 2.X material.
 
 ### Other repos to look into
 - https://github.com/TensorSpeech/TensorFlowTTS
+- https://github.com/Abdalrahman112/Image-captioning
 - https://github.com/akanyaani/gpt-2-tensorflow2.0
 - https://github.com/minimaxir/gpt-2-simple (TF 1.15 should be convertible)
 - https://github.com/zhedongzheng/tensorflow-nlp
